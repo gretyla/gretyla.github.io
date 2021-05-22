@@ -1,1 +1,1 @@
-# gretyla.books
+# gretyla.github.io
